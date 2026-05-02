@@ -1,7 +1,7 @@
 package io.github.alinizam.notifyex.infrastructure.repository;
 
 import io.github.alinizam.notifyex.domain.model.Notification;
-import io.github.alinizam.notifyex.domain.parts.out.NotificationRepository;
+import io.github.alinizam.notifyex.domain.ports.out.NotificationRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 
 import java.util.Map;

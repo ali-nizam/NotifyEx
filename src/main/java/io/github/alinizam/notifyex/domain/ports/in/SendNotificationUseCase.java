@@ -1,4 +1,4 @@
-package io.github.alinizam.notifyex.domain.parts.in;
+package io.github.alinizam.notifyex.domain.ports.in;
 
 import io.github.alinizam.notifyex.domain.model.Notification;
 
